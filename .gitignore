@@ -1,0 +1,7 @@
+# this file avoid tracking of files which present here by git.
+
+
+# Ignore node modules directory
+node_modules/
+
+.env
